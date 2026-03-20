@@ -539,7 +539,7 @@ MIT License – See LICENSE file for details.
 
 ## 👥 Team & Support
 
-- **Project Lead**: NextVysas (GitHub)
+- **Project Lead**: Nextsas (GitHub)
 - **Issues**: GitHub Issues tracker
 - **Security vulnerabilities**: Email security@payshield-ai.local (or use GitHub Security Advisory)
 
